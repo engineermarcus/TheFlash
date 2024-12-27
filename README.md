@@ -3,21 +3,30 @@
   
 ***
   
-<div style="text-align: center; background-color: black; padding: 20px;">
+<p align="center">
+  <h3 align="center">⚡ The Flash</h3>
+</p>
+
+<p align="center">
   <!-- Typing SVG -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=FF0000&center=true&width=910&height=100&lines=I+can+do+this+all+day" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=FF0000&center=true&width=910&height=100&lines=I+can+do+this+all+day" alt="Typing SVG">
+</p>
+
+<p align="center">
+  <!-- The Flash Image -->
+  <img src="theflashimage.jpg" alt="The Flash Image" style="width: 50%; height: auto;">
+</p>
+
+<p align="center">
+  <a href="https://github.com/MarcusNeiman" alt="GitHub Profile">
+    <img src="https://img.shields.io/badge/View%20my%20GitHub-181717?logo=github&logoColor=white&style=for-the-badge" title="Check my GitHub Profile"/>
   </a>
-  
-  <!-- Image -->
-  <img src="/data/data/com.termux/files/home/The_Flash/theflashimage.jpg" alt="The Flash" style="max-width: 100%; height: auto; margin-top: 20px;">
-</div>
-  </p>
+</p>
 
   <p align="center">  
   <a href="https://whatsapp.com/channel/0029VaaUfPO8qIzztuf42D04">
     <img alt="wasi" height="300" src="https://telegra.ph/file/3a21bf26bedef7966fd74.jpg">
-    <h1 align="center">PREXZY-BUG-BOT</h1>
+    <h1 align="center">The Flash</h1>
   </a>
 </p>
 <p align="center">
