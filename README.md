@@ -16,16 +16,9 @@
   <!-- The Flash Image -->
   <img src="theflashimage.jpg" alt="The Flash Image" style="width: 50%; height: auto;">
 </p>
+ <p> <a href="https://github.com/engineermarcus/TheFlash.git">
 
-<p align="center">
-  <a href="https://github.com/MarcusNeiman" alt="GitHub Profile">
-    <img src="https://img.shields.io/badge/View%20my%20GitHub-181717?logo=github&logoColor=white&style=for-the-badge" title="Check my GitHub Profile"/>
-  </a>
-</p>
 
-  <p align="center">  
-  <a href="https://whatsapp.com/channel/0029VaaUfPO8qIzztuf42D04">
-    <img alt="wasi" height="300" src="https://telegra.ph/file/3a21bf26bedef7966fd74.jpg">
     <h1 align="center">The Flash</h1>
   </a>
 </p>
