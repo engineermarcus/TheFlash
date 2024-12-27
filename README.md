@@ -3,9 +3,15 @@
   
 ***
   
-<a href="https://git.io/typing-svg">
+<div style="text-align: center; background-color: black; padding: 20px;">
+  <!-- Typing SVG -->
+  <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=FF0000&center=true&width=910&height=100&lines=I+can+do+this+all+day" alt="Typing SVG" />
-</a>
+  </a>
+  
+  <!-- Image -->
+  <img src="/data/data/com.termux/files/home/The_Flash/theflashimage.jpg" alt="The Flash" style="max-width: 100%; height: auto; margin-top: 20px;">
+</div>
   </p>
 
   <p align="center">  
