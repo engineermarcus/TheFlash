@@ -2,7 +2,6 @@
 <p align="center">  
   
 ***
-  
 <p align="center">
   <h3 align="center">⚡ The Flash</h3>
 </p>
@@ -13,14 +12,8 @@
 </p>
 
 <p align="center">
-  <!-- The Flash Image -->
+  <!-- Your Image -->
   <img src="theflashimage.jpg" alt="The Flash Image" style="width: 50%; height: auto;">
-</p>
- <p> <a href="https://github.com/engineermarcus/TheFlash.git">
-
-
-    <h1 align="center">The Flash</h1>
-  </a>
 </p>
 
 
